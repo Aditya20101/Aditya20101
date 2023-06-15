@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 🔭 I’m currently working on UAV detection and Classification
-- 🌱 See my portfolio at https://aditya20101.github.io/My-portfolio/
+-->
+
+
+- 🌱 See my portfolio at https://aditya20101.github.io/
 - 📫 How to reach me: adityas20101@iiitnr.edu.in
 
 
