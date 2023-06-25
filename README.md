@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 See my portfolio at https://portfolio-adityasxn.mw/
+- 🌱 See my portfolio at https://portfolio-adityasxn.me/
 - 📫 How to reach me: adityas20101@iiitnr.edu.in
 
 
