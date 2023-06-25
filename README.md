@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🔭 I’m currently working on UAV detection and Classification
--->
 
 
 - 🌱 See my portfolio at https://aditya20101.github.io/
+-->
+
+
+- 🌱 See my portfolio at https://portfolio-adityasxn.mw/
 - 📫 How to reach me: adityas20101@iiitnr.edu.in
 
 
