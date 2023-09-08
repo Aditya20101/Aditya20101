@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [portfolio-adityasxn.me](portfolio-adityasxn.me)
 
 - 📫 How to reach me **adityas20101@iiitnr.edu.in**
-!<--
+<!--
 <h3 align="left">Connect with me:</h3>
 -->
 <p align="left">
