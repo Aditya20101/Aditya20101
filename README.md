@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya Saxena</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
-- 🌱 See my portfolio at https://aditya20101.github.io/
+- 🌱 See my portfolio at **https://aditya20101.github.io/](https://portfolio-adityasxn.me**
 
 - 📫 How to reach me **adityas20101@iiitnr.edu.in**
 <!--
